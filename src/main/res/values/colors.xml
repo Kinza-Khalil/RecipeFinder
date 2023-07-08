@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="colorPrimary">#CC0000</color> <!-- Red -->
+<color name="colorPrimaryDark">#8B0000</color> <!-- Dark Red -->
+<color name="colorAccent">#008000</color> <!-- Green -->
+    <color name="colorBackground">#FF5722</color> <!-- change this to the color you want for the background -->
+
+</resources>
